@@ -14,6 +14,6 @@ MIT
 
 ## Deployed Applications
 
-![portfolio](./assets/images/Challenge-3%20screenshot.png)
+![portfolio](./Assets/Images/Challenge-3%20screenshot.png)
 
-[Github Repo](https://github.com/Ale-Miret/challenge-3-)                                                                                                             [Deployed Application](https://ale-miret.github.io/challenge-3-gen/)
+[Github Repo](https://github.com/Ale-Miret/challenge-3-)                                                                                                                                                                                                                            [Deployed Application](https://ale-miret.github.io/challenge-3-gen/)
